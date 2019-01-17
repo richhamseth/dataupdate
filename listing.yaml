@@ -1,0 +1,41 @@
+createlisting:
+  userId: 254
+  accountType: Manufacturer
+  listName: Automation code check for listing 2
+  publishDate: '2019-01-17'
+  expiryDate: '2019-11-30'
+  templateName: Automation code check
+  regionName:
+  - afghanistan
+  - India
+
+productlisting:
+  productName: Automation product check
+  productDescription: this is the product productDescription
+  product: Computer
+  Type: Laptop
+  Brand: HP
+  productImage: download.jpeg
+  manufacturingDetails:
+    productionYear: '2018'
+    productMfgCountry: India
+  packagingDetails:
+    productUnitsPerPkg: 10
+    packageType: Box
+    productQuantity: 100
+    minimumQuantity: 40
+    units: "in"
+    weight: "8"
+    weightUnits: "lb"
+    width:
+      $numberDecimal: "21"
+    lotNumber:
+    - number: 10
+    - number: 10
+  pricingDetails:
+    distributorPricePerPkg: 100
+    retailerPricePerPkg: 100
+    supplierPricePerPkg: 100
+    manufacturerPricePerPkg: 100
+    consumerPricePerPkg: 100
+    governmentPricePerPkg: 100

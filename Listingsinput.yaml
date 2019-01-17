@@ -1,0 +1,113 @@
+createlisting:
+  tradePartnerTypes:
+    retailers: false
+    suppliers: false
+    consumers: false
+    manufacturers: false
+    unitedStatesGovernment: false
+    internationalGovernments: false
+  termsOfSale:
+    paymentTerms:
+      paymentTermsType: 1
+      paymentAfterNetDays: 
+      allowExpeditedPaymentPeriod: false
+      expeditedPaymentPeriod: 
+      discount: 
+    template:
+      isTemplate: false
+      templateName: ''
+    paymentMethod: 1
+    deliveryTerms:
+      days: 10
+    uploadDocument: []
+    termsNote: Laptop warrants that the hardware products it manufactures will be
+      free from defects in materials and workmanship. The limited warranty term is
+      90-days beginning on the date of invoice, as further described in the following
+      text. Damage due to shipping the products to you is covered under this limited
+      warranty.
+  chats:
+    chatpresent: false
+    chatread: false
+  bids:
+    bidsPresent: false
+    bidsRead: false
+    bidsCount: 0
+  state:
+    listing: 1
+    product: 1
+    tracebility: 1
+    termsOfSale: 1
+    all: 1
+  bidsReviewed: false
+  listType: 1
+  userId: 286
+  accountType: Manufacturer
+  listName: 'list imatge uploads'
+  publishDate: '2018-11-13'
+  expiryDate: '2018-11-30'
+  isRecurringRequest: true
+  isTemplate: false
+  templateName: 'list image uploads'
+  cloakListerIdentity: false
+  revealBuyerIdentity: true
+  eligibleRegions: []
+  acceptedTermsAndConditions: false
+  status: 3
+
+
+productlisting:
+  listId: 5b50207f5576aa0012c9b239
+  productName: 'list image uploads'
+  productDescription: this is the product description
+  productType:
+    value: 1
+    ammunitionType:
+      projectileWeight:
+        55grains: true
+        60grains: false
+        70grains: false
+        80grains: false
+        85grains: false
+        90grains: false
+        other: false
+      projectileType:
+        shot: true
+        slug: false
+        specialty: false
+        other: false
+      purpose:
+        defence: true
+        hunting: false
+        lawEnforcement: false
+        sporting: false
+        other: false
+      caliber: 380m
+      value: 2
+  productImage:
+  - imgSrcUrl: 'https://res.cloudinary.com/demo/image/upload/w_220,h_140,c_fill/l_brown_sheep,w_220,h_140,c_fill,x_220/l_horses,w_220,h_140,c_fill,y_140,x_-110/l_white_chicken,w_220,h_140,c_fill,y_70,x_110/l_butterfly.png,h_200,x_-10,a_10/w_400,h_260,c_crop,r_20/l_text:Parisienne_35_bold:Memories%20from%20our%20trip,co_rgb:990C47,y_155/e_shadow/yellow_tulip.jpg'
+    imgType: jpeg
+  manufacturingDetails:
+    productionYear: '2018'
+    productMfgCountry: 101
+  packagingDetails:
+    productUnitsPerPkg: 10
+    packageType: Box
+    productQuantity: 100
+    minimumQuantity: 1
+    units: "in"
+    weight: "8"
+    weightUnits: "lb"
+    width:
+      $numberDecimal: "21"
+    lotNumber:
+    - number: 10
+    - number: 10
+  pricingDetails:
+    distributorPricePerPkg: 100
+    retailerPricePerPkg: 100
+    supplierPricePerPkg: 100
+
+    manufacturerPricePerPkg: 100
+
+    consumerPricePerPkg: 100
+    governmentPricePerPkg: 100

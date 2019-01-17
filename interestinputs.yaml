@@ -1,0 +1,60 @@
+createinterest:
+  tradePartnerTypes:
+    manufacturers: false
+    retailers: false
+    unitedStatesGovernment: false
+    suppliers: false
+    distributors: false
+    consumers: false
+    internationalGovernments: false
+  chats:
+    chatpresent: false
+    chatread: false
+  match:
+    matchpresent: false
+    matchread: false
+    matchcount: 0
+  preferenceType:
+    ammunitionType:
+      projectileType:
+        shot: false
+        slug: false
+        specialty: false
+        other: false
+      purpose:
+        defence: false
+        hunting: false
+        lawEnforcement: false
+        sporting: false
+        other: false
+      brandOrMfg:
+        federal: false
+        homady: false
+        jagemann: false
+        lakeCity: false
+        starline: false
+        vairog: false
+        winchester: false
+        Other: false
+      value: 2
+      packageType: ''
+      caliber: 50cal
+    componentType:
+      caliber: 50cal
+    value: 2
+  interestName: 'mapping12'
+  templateName: 'mapping12'
+  isTemplate: false
+  interestType: 2
+  userId: 254
+  accountType: Consumer
+  publishDate: '2018-11-12'
+  expiryDate: '2018-11-30'
+  priceRangeFrom: 50
+  priceRangeTo: 100
+  quantityRangeFrom: 50
+  quantityRangeTo: 150
+  eligibleRegions: []
+  selectGroups: []
+  termsOfSale: 1
+  status: 3

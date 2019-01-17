@@ -1,0 +1,9 @@
+RUN Command
+
+--> Create listing
+
+python Listingdata.py --SellerURL 0.0.0.0 --SellerName <userName> --password <password>
+
+--> Create Interest
+
+python Interestdata.py --buyerURL 0.0.0.0 --buyerName <userName> --password <password>
